@@ -19,7 +19,7 @@ breed_food = {
 
     # Buffaloes
     "Murrah": "Green fodder, dry straw, and mineral mixture for better milk yield.",
-    "Jaffarabadi": "Sugarcane tops, sorghum, and mineral-rich supplements.",
+    "Jaffrabadi": "Sugarcane tops, sorghum, and mineral-rich supplements.",
     "Mehsana": "Hybrid napier grass, maize fodder, and mineral supplements.",
     "Banni": "Grass, cactus, and dry fodder suited for arid regions.",
 }
